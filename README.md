@@ -6,7 +6,7 @@
 <p>Fui Estagiário em TI, onde por um ano pude aprender como funciona esse setor, desde o suporte ao usuário à
 implementação de novos sistemas, promovido a Analista de Suporte Jr. atuei com implementação de
 infraestrutura de redes e servidores. Estudante de engenharia da computação e desenvolvimento Web com React + Typescript, com experiência em infraestrutura estou focado em ingressar
-em desenvolvimento.</p>
+em desenvolvimento!</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/63800945/199640089-532e9b9d-9a7d-461f-8030-ce079d6be778.gif"/></div>
 <br>
 

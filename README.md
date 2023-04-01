@@ -24,7 +24,7 @@ em desenvolvimento!</p>
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
 </div>
-<p>:pencil: Tenho estudo Java focado em desenvolvimento backend com springboot.</p>
+<p>:pencil: Tenho estudo Java com foco em desenvolvimento backend com springboot.</p>
 
 # 
 <br>
